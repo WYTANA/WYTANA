@@ -7,7 +7,7 @@
 
 ## 🧰 My Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="Solidity Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJS Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg" alt="Ethereum" width="50" height="50"/> <img src="https://github.com/MetaMask/brand-resources/raw/master/SVG/metamask-fox.svg" alt="Metamask" widt="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="Solidity Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="NextJS Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg" alt="Ethereum" width="50" height="50"/> <img src="https://github.com/MetaMask/brand-resources/raw/master/SVG/metamask-fox.svg" alt="Metamask" widt="50" height="50"/>
 
 ---
 
