@@ -1,4 +1,11 @@
-### Hi there 👋
+### Travis L Orback
+![Twitter Follow](https://img.shields.io/twitter/follow/tlorback?style=social)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2Ftlorback)
+
+- I'm a full-stack blockchain/Web 3.0 developer specializing in React/Next front ends and Solidity/Hardhat back ends
+- I'm looking for a remote full-stack position, building and testing decentralized applications
+
+
 
 <!--
 **WYTANA/WYTANA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
