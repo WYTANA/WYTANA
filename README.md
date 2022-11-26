@@ -1,7 +1,7 @@
 ### Travis L Orback
 ![Twitter Follow](https://img.shields.io/twitter/follow/tlorback?style=social)
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2Ftlorback)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/tlorback) 
 
 - I'm a full-stack blockchain/Web 3.0 developer specializing in React/Next front ends and Solidity/Hardhat back ends
 - I'm looking for a remote full-stack position, building and testing decentralized applications
