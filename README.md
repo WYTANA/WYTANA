@@ -13,7 +13,7 @@
 
 ## Socials
 
-<a href="https://www.linkedin.com/in/travislorback/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn Logo" width="50" height="50" /></a> <a href="https://twitter.com/tlorback" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/172px-Twitter_bird_logo_2012.svg.png?20141014130605" alt="Twitter Logo" width="60" height="50" /></a>
+<a href="https://www.linkedin.com/in/travislorback/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn Logo" width="50" height="50" /></a><br/> <a href="https://twitter.com/tlorback" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/172px-Twitter_bird_logo_2012.svg.png?20141014130605" alt="Twitter Logo" width="60" height="50" /></a>
 <!--
 **WYTANA/WYTANA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
