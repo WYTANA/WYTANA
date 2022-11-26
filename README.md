@@ -1,4 +1,4 @@
-## Travis L Orback
+# Travis L Orback
 
 - I'm a full-stack blockchain/Web 3.0 developer specializing in React/Next front ends and Solidity/Hardhat back ends
 - I'm looking for a remote full-stack position, building and testing decentralized applications
@@ -13,8 +13,7 @@
 
 ## Socials
 
-<a href="https://www.linkedin.com/in/travislorback/"><img src="![image](https://user-images.githubusercontent.com/57234259/204074083-799be676-36cd-4b47-aff3-af62c3d6a4b1.png)
-" alt="LinkedIn Logo" width="50" height="50"/></a>
+<a href="https://www.linkedin.com/in/travislorback/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn Logo" width="50" height="50"/></a>
 <!--
 **WYTANA/WYTANA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
