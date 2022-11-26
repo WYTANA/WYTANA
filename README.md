@@ -13,7 +13,11 @@
 
 ## Socials
 
-<a href="https://www.linkedin.com/in/travislorback/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn Logo" width="50" height="50" /></a> <a href="https://twitter.com/tlorback" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/172px-Twitter_bird_logo_2012.svg.png?20141014130605" alt="Twitter Logo" width="60" height="50" /></a> <a href="discordapp.com/users/652256581915902002" target="_blank" rel="noreferrer"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg" alt="Discord Logo" width="50" height="50" /></a>
+<a href="https://www.linkedin.com/in/travislorback/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn Logo" width="50" height="50" /></a> <a href="https://twitter.com/tlorback" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/172px-Twitter_bird_logo_2012.svg.png?20141014130605" alt="Twitter Logo" width="60" height="50" /></a> <a href="https://www.discordapp.com/users/652256581915902002" target="_blank" rel="noreferrer"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg" alt="Discord Logo" width="50" height="50" /></a>
+
+
+
+
 <!--
 **WYTANA/WYTANA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
