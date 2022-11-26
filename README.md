@@ -13,7 +13,7 @@
 
 ## Socials
 
-<a href="https://www.linkedin.com/in/travislorback/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn Logo" width="50" height="50"/></a>
+<a href="https://www.linkedin.com/in/travislorback/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn Logo" width="50" height="50" target="_blank"/></a>
 <!--
 **WYTANA/WYTANA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
