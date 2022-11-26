@@ -5,10 +5,12 @@
 
 - I'm a full-stack blockchain/Web 3.0 developer specializing in React/Next front ends and Solidity/Hardhat back ends
 - I'm looking for a remote full-stack position, building and testing decentralized applications
-- 
+
 ---
 
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50" /> 
+<img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Logo" width="50" height="50" />
+
 
 <!--
 **WYTANA/WYTANA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
