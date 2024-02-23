@@ -1,5 +1,3 @@
-# Travis L Orback
-
 - Full-stack blockchain/Web 3.0 developer specializing in React/Next front ends and Solidity/Hardhat back ends
 - Seeking a remote full-stack position, building and testing decentralized applications
 - Current projects include a decentralized crypto exchange and an Automated Market Maker (inspired by Uniswap)
